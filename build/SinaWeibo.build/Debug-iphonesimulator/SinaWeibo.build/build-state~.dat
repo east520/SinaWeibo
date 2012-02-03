@@ -1,0 +1,584 @@
+TSinaWeibo
+v7
+r0
+t335432619.310129
+cCheck dependencies
+cProcessInfoPlistFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist" SinaWeibo-Info.plist
+cCompileXIB "/IOS App/SinaWeibo/MainWindow.xib"
+cCompileXIB "/IOS App/SinaWeibo/HomeViewController.xib"
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/AccountView.png AccountView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/HomeView.png HomeView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png MessageView-2.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png PlazaView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png SettingsView.png
+cCompileXIB "/IOS App/SinaWeibo/MessageViewController.xib"
+cCompileXIB "/IOS App/SinaWeibo/PlazaViewController.xib"
+cCompileXIB "/IOS App/SinaWeibo/AccountViewController.xib"
+cCompileXIB "/IOS App/SinaWeibo/SettingsViewController.xib"
+cProcessPCH /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch SinaWeibo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o "/IOS App/SinaWeibo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o "/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o "/IOS App/SinaWeibo/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o "/IOS App/SinaWeibo/MessageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o "/IOS App/SinaWeibo/PlazaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o "/IOS App/SinaWeibo/AccountViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o "/IOS App/SinaWeibo/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/IOS App/SinaWeibo/AccountView.png
+c000000004E4E0BC40000000000001F01
+t1313737668
+s7937
+
+N/IOS App/SinaWeibo/AccountViewController.h
+c000000004E4E139B00000000000000E1
+t1313739675
+s225
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/AccountViewController.m
+c000000004E4E139B0000000000000523
+t1313739675
+s1315
+i"AccountViewController.h"
+
+N/IOS App/SinaWeibo/AccountViewController.xib
+c000000004E4E139B00000000000050A2
+t1313739675
+s20642
+
+N/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.h
+c000000004E4DD6AE0000000000000166
+t1313724078
+s358
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m
+c000000004E4E13C300000000000014DF
+t1313739715
+s5343
+i"SinaWeiboAppDelegate.h"
+
+N/IOS App/SinaWeibo/HomeView.png
+c000000004E4E0B530000000000001CF7
+t1313737555
+s7415
+
+N/IOS App/SinaWeibo/HomeViewController.h
+c000000004E4E0DF500000000000000DB
+t1313738229
+s219
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/HomeViewController.m
+c000000004E4E0DF5000000000000051A
+t1313738229
+s1306
+i"HomeViewController.h"
+
+N/IOS App/SinaWeibo/HomeViewController.xib
+c000000004E4E0DF5000000000000509F
+t1313738229
+s20639
+
+N/IOS App/SinaWeibo/MainWindow.xib
+c000000004E4DCA7E0000000000002112
+t1313720958
+s8466
+
+N/IOS App/SinaWeibo/MessageView-2.png
+c000000004E4E0B5F0000000000001FA8
+t1313737567
+s8104
+
+N/IOS App/SinaWeibo/MessageViewController.h
+c000000004E4E136C00000000000000E1
+t1313739628
+s225
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/MessageViewController.m
+c000000004E4E136C0000000000000523
+t1313739628
+s1315
+i"MessageViewController.h"
+
+N/IOS App/SinaWeibo/MessageViewController.xib
+c000000004E4E136C00000000000050A2
+t1313739628
+s20642
+
+N/IOS App/SinaWeibo/PlazaView.png
+c000000004E4E0C5200000000000021AB
+t1313737810
+s8619
+
+N/IOS App/SinaWeibo/PlazaViewController.h
+c000000004E4E138500000000000000DD
+t1313739653
+s221
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/PlazaViewController.m
+c000000004E4E1385000000000000051D
+t1313739653
+s1309
+i"PlazaViewController.h"
+
+N/IOS App/SinaWeibo/PlazaViewController.xib
+c000000004E4E138500000000000050A0
+t1313739653
+s20640
+
+N/IOS App/SinaWeibo/SettingsView.png
+c000000004E4E0CB500000000000028F3
+t1313737909
+s10483
+
+N/IOS App/SinaWeibo/SettingsViewController.h
+c000000004E4E13AC00000000000000E3
+t1313739692
+s227
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/SettingsViewController.m
+c000000004E4E13AC0000000000000526
+t1313739692
+s1318
+i"SettingsViewController.h"
+
+N/IOS App/SinaWeibo/SettingsViewController.xib
+c000000004E4E13AC00000000000050A3
+t1313739692
+s20643
+
+N/IOS App/SinaWeibo/SinaWeibo_Prefix.pch
+c000000004E4DCA7E00000000000000BB
+t1313720958
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app
+t2
+s0
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM
+t2
+s0
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/AccountView.png
+t1313739813
+s7937
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/AccountViewController.nib
+t1313739817
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/HomeView.png
+t1313739813
+s7415
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/HomeViewController.nib
+t1313739816
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist
+t1313739813
+s599
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MainWindow.nib
+t1313739816
+s1533
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png
+t1313739813
+s8104
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageViewController.nib
+t1313739816
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PkgInfo
+t1313739813
+s8
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png
+t1313739813
+s8619
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PlazaViewController.nib
+t1313739816
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png
+t1313739813
+s10483
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SettingsViewController.nib
+t1313739817
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo
+t2
+s0
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o
+t1313739819
+s38624
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o
+t1313739819
+s38552
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o
+t1313739819
+s38624
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o
+t1313739819
+s38576
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o
+t1313739819
+s38648
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeibo.LinkFileList
+c000000004E4E14250000000000000347
+t1313739813
+s839
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o
+t2
+s0
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o
+t1313739819
+s6272
+
+N/IOS App/SinaWeibo/main.m
+c000000004E4DCA7E000000000000015C
+t1313720958
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch
+t1313739818
+s15814064
+
+NSinaWeibo-Info.plist
+c000000004E4DCA7E000000000000038D
+t1313720958
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335432613#335432613#0(0"0(0#1#0"8637161216#0"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o "/IOS App/SinaWeibo/AccountViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.157261
+e335432619.260854
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o
+x/IOS App/SinaWeibo/AccountViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /IOS App/SinaWeibo/AccountViewController.m335432619#335432619#0(0"0(0#0#42"/IOS App/SinaWeibo/AccountViewController.m8633962784#1790"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/AccountViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o "/IOS App/SinaWeibo/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.049150
+e335432619.155785
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o
+x/IOS App/SinaWeibo/HomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /IOS App/SinaWeibo/HomeViewController.m335432619#335432619#0(0"0(0#0#39"/IOS App/SinaWeibo/HomeViewController.m8638454368#1784"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/HomeViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o "/IOS App/SinaWeibo/MessageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.122549
+e335432619.236656
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o
+x/IOS App/SinaWeibo/MessageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /IOS App/SinaWeibo/MessageViewController.m335432619#335432619#0(0"0(0#0#42"/IOS App/SinaWeibo/MessageViewController.m8637213536#1790"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/MessageViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o "/IOS App/SinaWeibo/PlazaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.155912
+e335432619.260602
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o
+x/IOS App/SinaWeibo/PlazaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /IOS App/SinaWeibo/PlazaViewController.m335432619#335432619#0(0"0(0#0#40"/IOS App/SinaWeibo/PlazaViewController.m8635069984#1786"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/PlazaViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o "/IOS App/SinaWeibo/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.236828
+e335432619.310001
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o
+x/IOS App/SinaWeibo/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /IOS App/SinaWeibo/SettingsViewController.m335432619#335432619#0(0"0(0#0#43"/IOS App/SinaWeibo/SettingsViewController.m8638376992#1792"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/SettingsViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o "/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.048251
+e335432619.122352
+r0
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o
+x/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m: In function '-[SinaWeiboAppDelegate application:didFinishLaunchingWithOptions:]':
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:39: error: 'fame' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:39: error: (Each undeclared identifier is reported only once
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:39: error: for each function it appears in.)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:50: error: 'HomeViewController' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:55: error: 'MessageViewController' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:60: error: 'PlazaViewController' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:65: error: 'AccountViewController' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:70: error: 'SettingsViewController' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:75: error: 'tabBarController' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:79: error: 'TabbarControler' undeclared (first use in this function)
+o/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:38: warning: unused variable 'fram'
+o{standard input}:152:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:152:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:144:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:144:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:126:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:126:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:123:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:123:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:116:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:116:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:101:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:101:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:98:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:89:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:89:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:80:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:80:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:64:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:64:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+lSLF07#2@57"Compile /IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432619#335432619#0(5531"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m: In function '-[SinaWeiboAppDelegate application:didFinishLaunchingWithOptions:]':/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:39: error: 'fame' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:39: error: (Each undeclared identifier is reported only once/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:39: error: for each function it appears in.)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:50: error: 'HomeViewController' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:55: error: 'MessageViewController' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:60: error: 'PlazaViewController' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:65: error: 'AccountViewController' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:70: error: 'SettingsViewController' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:75: error: 'tabBarController' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:79: error: 'TabbarControler' undeclared (first use in this function)/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m:38: warning: unused variable 'fram'{standard input}:152:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:152:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:144:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:144:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:126:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:126:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:123:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:123:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:116:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:116:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:101:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:101:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:98:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:89:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:89:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:80:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:80:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:64:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:64:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_89(4@46"'fame' undeclared (first use in this function)335432619#133#108#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#39#0#39#0#43"'*' undeclared (first use in this function)0(4@60"'HomeViewController' undeclared (first use in this function)335432619#447#122#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#50#0#50#0#43"'*' undeclared (first use in this function)0(4@63"'MessageViewController' undeclared (first use in this function)335432619#569#125#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#55#0#55#0#43"'*' undeclared (first use in this function)0(4@61"'PlazaViewController' undeclared (first use in this function)335432619#694#123#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#60#0#60#0#43"'*' undeclared (first use in this function)0(4@63"'AccountViewController' undeclared (first use in this function)335432619#817#125#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#65#0#65#0#43"'*' undeclared (first use in this function)0(4@64"'SettingsViewController' undeclared (first use in this function)335432619#942#126#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#70#0#70#0#43"'*' undeclared (first use in this function)0(4@58"'tabBarController' undeclared (first use in this function)335432619#1068#120#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#75#0#75#0#43"'*' undeclared (first use in this function)0(4@57"'TabbarControler' undeclared (first use in this function)335432619#1188#119#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#79#0#79#0#43"'*' undeclared (first use in this function)0(22@22"Unused variable 'fram'335432619#1307#86#0(6@49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335432515#38#0#38#0#19"unused variable '*'0(0#0#49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m8598003008#1796"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o"1#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o "/IOS App/SinaWeibo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.047170
+e335432619.157172
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o
+x/IOS App/SinaWeibo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Compile /IOS App/SinaWeibo/main.m335432619#335432619#0(0"0(0#0#25"/IOS App/SinaWeibo/main.m8626314176#1756"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/main.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/IOS App/SinaWeibo/AccountViewController.xib"
+s335432616.107635
+e335432617.206105
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/AccountViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/AccountViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on AccountViewController.
+lSLF07#2@36"CompileXIB AccountViewController.xib335432616#335432617#0(216"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/AccountViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on AccountViewController.1(22@116"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on AccountViewController.335432617#18446744073709551615#0#0(6@44"/IOS App/SinaWeibo/AccountViewController.xib335432475#18446744073709551615#0#18446744073709551615#0#0"0(0#0#44"/IOS App/SinaWeibo/AccountViewController.xib8639271648#540"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/AccountViewController.nib" "/IOS App/SinaWeibo/AccountViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/HomeViewController.xib"
+s335432613.198845
+e335432616.109752
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/HomeViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/HomeViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on HomeViewController.
+lSLF07#2@33"CompileXIB HomeViewController.xib335432613#335432616#0(210"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/HomeViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on HomeViewController.1(22@113"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on HomeViewController.335432616#18446744073709551615#0#0(6@41"/IOS App/SinaWeibo/HomeViewController.xib335431029#18446744073709551615#0#18446744073709551615#0#0"0(0#0#41"/IOS App/SinaWeibo/HomeViewController.xib8638868096#534"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/HomeViewController.nib" "/IOS App/SinaWeibo/HomeViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/MainWindow.xib"
+s335432613.197976
+e335432616.107484
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335432613#335432616#0(0"0(0#0#33"/IOS App/SinaWeibo/MainWindow.xib8600385120#518"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MainWindow.nib" "/IOS App/SinaWeibo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/MessageViewController.xib"
+s335432613.208645
+e335432616.110154
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/MessageViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/MessageViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on MessageViewController.
+lSLF07#2@36"CompileXIB MessageViewController.xib335432613#335432616#0(216"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/MessageViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on MessageViewController.1(22@116"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on MessageViewController.335432616#18446744073709551615#0#0(6@44"/IOS App/SinaWeibo/MessageViewController.xib335432428#18446744073709551615#0#18446744073709551615#0#0"0(0#0#44"/IOS App/SinaWeibo/MessageViewController.xib8635180160#540"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageViewController.nib" "/IOS App/SinaWeibo/MessageViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/PlazaViewController.xib"
+s335432613.307853
+e335432616.109961
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/PlazaViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/PlazaViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PlazaViewController.
+lSLF07#2@34"CompileXIB PlazaViewController.xib335432613#335432616#0(212"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/PlazaViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PlazaViewController.1(22@114"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PlazaViewController.335432616#18446744073709551615#0#0(6@42"/IOS App/SinaWeibo/PlazaViewController.xib335432453#18446744073709551615#0#18446744073709551615#0#0"0(0#0#42"/IOS App/SinaWeibo/PlazaViewController.xib8637943840#536"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PlazaViewController.nib" "/IOS App/SinaWeibo/PlazaViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/SettingsViewController.xib"
+s335432616.110337
+e335432617.204850
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/SettingsViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/SettingsViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SettingsViewController.
+lSLF07#2@37"CompileXIB SettingsViewController.xib335432616#335432617#0(218"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/SettingsViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SettingsViewController.1(22@117"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SettingsViewController.335432617#18446744073709551615#0#0(6@45"/IOS App/SinaWeibo/SettingsViewController.xib335432492#18446744073709551615#0#18446744073709551615#0#0"0(0#0#45"/IOS App/SinaWeibo/SettingsViewController.xib8637847584#542"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SettingsViewController.nib" "/IOS App/SinaWeibo/SettingsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/AccountView.png AccountView.png
+s335432613.199622
+e335432613.304549
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/AccountView.png
+xAccountView.png
+lSLF07#2@20"Copy AccountView.png335432613#335432613#0(0"0(0#0#34"/IOS App/SinaWeibo/AccountView.png8636004992#421"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/AccountView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/HomeView.png HomeView.png
+s335432613.200592
+e335432613.304752
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/HomeView.png
+xHomeView.png
+lSLF07#2@17"Copy HomeView.png335432613#335432613#0(0"0(0#0#31"/IOS App/SinaWeibo/HomeView.png8632142688#418"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/HomeView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png MessageView-2.png
+s335432613.201651
+e335432613.305161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png
+xMessageView-2.png
+lSLF07#2@22"Copy MessageView-2.png335432613#335432613#0(0"0(0#0#36"/IOS App/SinaWeibo/MessageView-2.png8633313824#423"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/MessageView-2.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png PlazaView.png
+s335432613.202632
+e335432613.304937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png
+xPlazaView.png
+lSLF07#2@18"Copy PlazaView.png335432613#335432613#0(0"0(0#0#32"/IOS App/SinaWeibo/PlazaView.png8635917984#419"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/PlazaView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png SettingsView.png
+s335432613.203560
+e335432613.307390
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png
+xSettingsView.png
+lSLF07#2@21"Copy SettingsView.png335432613#335432613#0(0"0(0#0#35"/IOS App/SinaWeibo/SettingsView.png8635387488#422"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/SettingsView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CGenerateDSYMFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo"
+r0
+
+CLd "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo" normal i386
+r0
+
+CProcessInfoPlistFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist" SinaWeibo-Info.plist
+s335432613.194467
+e335432613.197836
+r1
+xProcessInfoPlistFile
+x/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist
+xSinaWeibo-Info.plist
+lSLF07#2@28"Process SinaWeibo-Info.plist335432613#335432613#0(0"0(0#0#39"/IOS App/SinaWeibo/SinaWeibo-Info.plist8625935296#431"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SinaWeibo-Info.plist -genpkginfo "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist"0#
+
+CProcessPCH /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch SinaWeibo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432617.206291
+e335432619.047007
+r1
+xProcessPCH
+x/var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch
+xSinaWeibo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SinaWeibo_Prefix.pch335432617#335432619#0(0"0(0#0#39"/IOS App/SinaWeibo/SinaWeibo_Prefix.pch8639130496#1664"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -c "/IOS App/SinaWeibo/SinaWeibo_Prefix.pch" -o /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch0#
+
+CTouch "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"
+r0
+

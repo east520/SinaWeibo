@@ -1,0 +1,1031 @@
+TSinaWeibo
+v7
+r0
+t335689077.849926
+cCheck dependencies
+cProcessInfoPlistFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist" SinaWeibo-Info.plist
+cCompileXIB "/IOS App/SinaWeibo/MainWindow.xib"
+cCompileXIB "/IOS App/SinaWeibo/HomeViewController.xib"
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/AccountView.png AccountView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/HomeView.png HomeView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/MessageView.png MessageView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png PlazaView.png
+cCpResource build/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png SettingsView.png
+cCompileXIB "/IOS App/SinaWeibo/MessageViewController.xib"
+cCompileXIB "/IOS App/SinaWeibo/PlazaViewController.xib"
+cCompileXIB "/IOS App/SinaWeibo/AccountViewController.xib"
+cCompileXIB "/IOS App/SinaWeibo/SettingsViewController.xib"
+cProcessPCH /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch SinaWeibo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o "/IOS App/SinaWeibo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o "/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o "/IOS App/SinaWeibo/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o "/IOS App/SinaWeibo/MessageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o "/IOS App/SinaWeibo/PlazaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o "/IOS App/SinaWeibo/AccountViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o "/IOS App/SinaWeibo/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/UImageScale.o "/IOS App/SinaWeibo/UImageScale.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIAuthenticationDialog.o "/IOS App/SinaWeibo/ASIAuthenticationDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataCompressor.o "/IOS App/SinaWeibo/ASIDataCompressor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataDecompressor.o "/IOS App/SinaWeibo/ASIDataDecompressor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDownloadCache.o "/IOS App/SinaWeibo/ASIDownloadCache.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIFormDataRequest.o "/IOS App/SinaWeibo/ASIFormDataRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIHTTPRequest.o "/IOS App/SinaWeibo/ASIHTTPRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIInputStream.o "/IOS App/SinaWeibo/ASIInputStream.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASINetworkQueue.o "/IOS App/SinaWeibo/ASINetworkQueue.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/Reachability.o "/IOS App/SinaWeibo/Reachability.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo" normal i386
+cGenerateDSYMFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo"
+cTouch "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CEB40000000000000AB3
+t1297403572
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5040000000000001533
+t1297401092
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C50400000000000008F5
+t1297401092
+s2293
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netdb.h
+c000000004D54C504000000000000307F
+t1297401092
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet/in.h
+c000000004D54D0E60000000000006BAC
+t1297404134
+s27564
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54D0E6000000000000638F
+t1297404134
+s25487
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/socket.h
+c000000004D54D0EB0000000000005ACF
+t1297404139
+s23247
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/zlib.h
+c000000004D54CB4600000000000102A5
+t1297402694
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libz.1.2.3.dylib
+c000000004D54CB4700000000000123C0
+t1297402695
+s74688
+
+N/IOS App/SinaWeibo/ASIAuthenticationDialog.h
+c000000004DE04D9A0000000000000453
+t1306545562
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/ASIAuthenticationDialog.m
+c000000004DE04D9A0000000000003DF0
+t1306545562
+s15856
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/IOS App/SinaWeibo/ASICacheDelegate.h
+c000000004DE04D9A000000000000141F
+t1306545562
+s5151
+i<Foundation/Foundation.h>
+
+N/IOS App/SinaWeibo/ASIDataCompressor.h
+c000000004DE04D9A000000000000072C
+t1306545562
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/IOS App/SinaWeibo/ASIDataCompressor.m
+c000000004DE04D9A0000000000001A4A
+t1306545562
+s6730
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/IOS App/SinaWeibo/ASIDataDecompressor.h
+c000000004DE04D9A00000000000006A3
+t1306545562
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/IOS App/SinaWeibo/ASIDataDecompressor.m
+c000000004DE04D9A0000000000001906
+t1306545562
+s6406
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/IOS App/SinaWeibo/ASIDownloadCache.h
+c000000004DE04D9A00000000000006CD
+t1306545562
+s1741
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/IOS App/SinaWeibo/ASIDownloadCache.m
+c000000004DE04D9A00000000000042A6
+t1306545562
+s17062
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/IOS App/SinaWeibo/ASIFormDataRequest.h
+c000000004DE04D9A0000000000000A6D
+t1306545562
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/IOS App/SinaWeibo/ASIFormDataRequest.m
+c000000004DE04D9A0000000000002B6A
+t1306545562
+s11114
+i"ASIFormDataRequest.h"
+
+N/IOS App/SinaWeibo/ASIHTTPRequest.h
+c000000004DE04D9A000000000000AEB6
+t1306545562
+s44726
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/IOS App/SinaWeibo/ASIHTTPRequest.m
+c000000004DE04D9A000000000002C528
+t1306545562
+s181544
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/IOS App/SinaWeibo/ASIHTTPRequestConfig.h
+c000000004DE04D9A0000000000000478
+t1306545562
+s1144
+
+N/IOS App/SinaWeibo/ASIHTTPRequestDelegate.h
+c000000004DE04D9A000000000000063E
+t1306545562
+s1598
+
+N/IOS App/SinaWeibo/ASIInputStream.h
+c000000004DE04D9A00000000000003C9
+t1306545562
+s969
+i<Foundation/Foundation.h>
+
+N/IOS App/SinaWeibo/ASIInputStream.m
+c000000004DE04D9A0000000000000C14
+t1306545562
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/IOS App/SinaWeibo/ASINetworkQueue.h
+c000000004DE04D9A000000000000120D
+t1306545562
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/IOS App/SinaWeibo/ASINetworkQueue.m
+c000000004DE04D9A0000000000002C8D
+t1306545562
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/IOS App/SinaWeibo/ASIProgressDelegate.h
+c000000004DE04D9A0000000000000678
+t1306545562
+s1656
+
+N/IOS App/SinaWeibo/AccountView.png
+c000000004E4E0BC40000000000001F01
+t1313737668
+s7937
+
+N/IOS App/SinaWeibo/AccountViewController.h
+c000000004E4E139B00000000000000E1
+t1313739675
+s225
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/AccountViewController.m
+c000000004E4E139B0000000000000523
+t1313739675
+s1315
+i"AccountViewController.h"
+
+N/IOS App/SinaWeibo/AccountViewController.xib
+c000000004E4E139B00000000000050A2
+t1313739675
+s20642
+
+N/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.h
+c000000004E4DD6AE0000000000000166
+t1313724078
+s358
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m
+c000000004E4E20BE00000000000015DE
+t1313743038
+s5598
+i"SinaWeiboAppDelegate.h"
+i"HomeViewController.h"
+i"MessageViewController.h"
+i"PlazaViewController.h"
+i"AccountViewController.h"
+i"SettingsViewController.h"
+i"UImageScale.h"
+
+N/IOS App/SinaWeibo/Classes/UImageScale.h
+c000000004D92E5D800000000000000EE
+t1301472728
+s238
+i<Foundation/Foundation.h>
+
+N/IOS App/SinaWeibo/HomeView.png
+c000000004E4E0B530000000000001CF7
+t1313737555
+s7415
+
+N/IOS App/SinaWeibo/HomeViewController.h
+c000000004E4E0DF500000000000000DB
+t1313738229
+s219
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/HomeViewController.m
+c000000004E4E0DF5000000000000051A
+t1313738229
+s1306
+i"HomeViewController.h"
+
+N/IOS App/SinaWeibo/HomeViewController.xib
+c000000004E4E0DF5000000000000509F
+t1313738229
+s20639
+
+N/IOS App/SinaWeibo/MainWindow.xib
+c000000004E4DCA7E0000000000002112
+t1313720958
+s8466
+
+N/IOS App/SinaWeibo/MessageView-2.png
+c000000004E4E0B5F0000000000001FA8
+t1313737567
+s8104
+
+N/IOS App/SinaWeibo/MessageView.png
+c000000004E4E0B5F0000000000001FA8
+t1313737567
+s8104
+
+N/IOS App/SinaWeibo/MessageViewController.h
+c000000004E4E136C00000000000000E1
+t1313739628
+s225
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/MessageViewController.m
+c000000004E4E136C0000000000000523
+t1313739628
+s1315
+i"MessageViewController.h"
+
+N/IOS App/SinaWeibo/MessageViewController.xib
+c000000004E4E136C00000000000050A2
+t1313739628
+s20642
+
+N/IOS App/SinaWeibo/PlazaView.png
+c000000004E4E0C5200000000000021AB
+t1313737810
+s8619
+
+N/IOS App/SinaWeibo/PlazaViewController.h
+c000000004E4E138500000000000000DD
+t1313739653
+s221
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/PlazaViewController.m
+c000000004E4E1385000000000000051D
+t1313739653
+s1309
+i"PlazaViewController.h"
+
+N/IOS App/SinaWeibo/PlazaViewController.xib
+c000000004E4E138500000000000050A0
+t1313739653
+s20640
+
+N/IOS App/SinaWeibo/Reachability.h
+c000000004DE04D9A0000000000001D0E
+t1306545562
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/IOS App/SinaWeibo/Reachability.m
+c000000004DE04D9A0000000000005E0C
+t1306545562
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/IOS App/SinaWeibo/SettingsView.png
+c000000004E4E0CB500000000000028F3
+t1313737909
+s10483
+
+N/IOS App/SinaWeibo/SettingsViewController.h
+c000000004E4E13AC00000000000000E3
+t1313739692
+s227
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/SettingsViewController.m
+c000000004E4E13AC0000000000000526
+t1313739692
+s1318
+i"SettingsViewController.h"
+
+N/IOS App/SinaWeibo/SettingsViewController.xib
+c000000004E4E13AC00000000000050A3
+t1313739692
+s20643
+
+N/IOS App/SinaWeibo/SinaWeibo_Prefix.pch
+c000000004E4DCA7E00000000000000BB
+t1313720958
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/IOS App/SinaWeibo/UImageScale.h
+c000000004D92E5D800000000000000EE
+t1301472728
+s238
+i<Foundation/Foundation.h>
+
+N/IOS App/SinaWeibo/UImageScale.m
+c000000004D92E5D800000000000002CD
+t1301472728
+s717
+i"UImageScale.h"
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app
+t1313996271
+s578
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM
+t1313996271
+s102
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/AccountView.png
+t1313739813
+s7937
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/AccountViewController.nib
+t1313739817
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/HomeView.png
+t1313739813
+s7415
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/HomeViewController.nib
+t1313739816
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist
+t1313739813
+s599
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MainWindow.nib
+t1313739816
+s1533
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png
+t1313739813
+s8104
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageView.png
+t1313742217
+s8104
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageViewController.nib
+t1313739816
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PkgInfo
+t1313739813
+s8
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png
+t1313739813
+s8619
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PlazaViewController.nib
+t1313739816
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png
+t1313739813
+s10483
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SettingsViewController.nib
+t1313739817
+s1270
+
+N/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo
+t1313996270
+s403700
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1313996168
+s108548
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataCompressor.o
+t1313996168
+s23268
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataDecompressor.o
+t1313996168
+s23232
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDownloadCache.o
+t1313996169
+s59396
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIFormDataRequest.o
+t1313996169
+s47620
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIHTTPRequest.o
+t1313996170
+s511424
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIInputStream.o
+t1313996169
+s29024
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASINetworkQueue.o
+t1313996169
+s61424
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o
+t1313739819
+s38624
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o
+t1313739819
+s38552
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o
+t1313739819
+s38624
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o
+t1313739819
+s38576
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/Reachability.o
+t1313996169
+s33660
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o
+t1313739819
+s38648
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeibo.LinkFileList
+c000000004E51FD8700000000000007E2
+t1313996167
+s2018
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o
+t1313996168
+s61428
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/UImageScale.o
+t1313741912
+s8048
+
+N/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o
+t1313739819
+s6272
+
+N/IOS App/SinaWeibo/main.m
+c000000004E4DCA7E000000000000015C
+t1313720958
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch
+t1313739818
+s15814064
+
+NSinaWeibo-Info.plist
+c000000004E4DCA7E000000000000038D
+t1313720958
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335689077#335689077#0(0"0(0#1#0"8636790624#0"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIAuthenticationDialog.o "/IOS App/SinaWeibo/ASIAuthenticationDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.438186
+e335688968.980344
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/IOS App/SinaWeibo/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /IOS App/SinaWeibo/ASIAuthenticationDialog.m335688968#335688968#0(0"0(0#0#44"/IOS App/SinaWeibo/ASIAuthenticationDialog.m8628502240#1794"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIAuthenticationDialog.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIAuthenticationDialog.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataCompressor.o "/IOS App/SinaWeibo/ASIDataCompressor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.439234
+e335688968.890625
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataCompressor.o
+x/IOS App/SinaWeibo/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /IOS App/SinaWeibo/ASIDataCompressor.m335688968#335688968#0(0"0(0#0#38"/IOS App/SinaWeibo/ASIDataCompressor.m8625449632#1782"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIDataCompressor.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataCompressor.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataDecompressor.o "/IOS App/SinaWeibo/ASIDataDecompressor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.440094
+e335688968.908346
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataDecompressor.o
+x/IOS App/SinaWeibo/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /IOS App/SinaWeibo/ASIDataDecompressor.m335688968#335688968#0(0"0(0#0#40"/IOS App/SinaWeibo/ASIDataDecompressor.m8623557856#1786"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIDataDecompressor.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDataDecompressor.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDownloadCache.o "/IOS App/SinaWeibo/ASIDownloadCache.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.890810
+e335688969.188433
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDownloadCache.o
+x/IOS App/SinaWeibo/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /IOS App/SinaWeibo/ASIDownloadCache.m335688968#335688969#0(0"0(0#0#37"/IOS App/SinaWeibo/ASIDownloadCache.m8614509024#1780"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIDownloadCache.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIDownloadCache.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIFormDataRequest.o "/IOS App/SinaWeibo/ASIFormDataRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.908498
+e335688969.109602
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIFormDataRequest.o
+x/IOS App/SinaWeibo/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /IOS App/SinaWeibo/ASIFormDataRequest.m335688968#335688969#0(0"0(0#0#39"/IOS App/SinaWeibo/ASIFormDataRequest.m8611300576#1784"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIFormDataRequest.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIFormDataRequest.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIHTTPRequest.o "/IOS App/SinaWeibo/ASIHTTPRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.910134
+e335688970.090026
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIHTTPRequest.o
+x/IOS App/SinaWeibo/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /IOS App/SinaWeibo/ASIHTTPRequest.m335688968#335688970#0(0"0(0#0#35"/IOS App/SinaWeibo/ASIHTTPRequest.m8609904192#1776"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIHTTPRequest.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIHTTPRequest.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIInputStream.o "/IOS App/SinaWeibo/ASIInputStream.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688968.980531
+e335688969.099917
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIInputStream.o
+x/IOS App/SinaWeibo/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /IOS App/SinaWeibo/ASIInputStream.m335688968#335688969#0(0"0(0#0#35"/IOS App/SinaWeibo/ASIInputStream.m8628603392#1776"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASIInputStream.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASIInputStream.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASINetworkQueue.o "/IOS App/SinaWeibo/ASINetworkQueue.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688969.100097
+e335688969.304119
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASINetworkQueue.o
+x/IOS App/SinaWeibo/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /IOS App/SinaWeibo/ASINetworkQueue.m335688969#335688969#0(0"0(0#0#36"/IOS App/SinaWeibo/ASINetworkQueue.m8617074304#1778"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/ASINetworkQueue.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/ASINetworkQueue.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o "/IOS App/SinaWeibo/AccountViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.157261
+e335432619.260854
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o
+x/IOS App/SinaWeibo/AccountViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /IOS App/SinaWeibo/AccountViewController.m335432619#335432619#0(0"0(0#0#42"/IOS App/SinaWeibo/AccountViewController.m8633962784#1790"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/AccountViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/AccountViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o "/IOS App/SinaWeibo/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.049150
+e335432619.155785
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o
+x/IOS App/SinaWeibo/HomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /IOS App/SinaWeibo/HomeViewController.m335432619#335432619#0(0"0(0#0#39"/IOS App/SinaWeibo/HomeViewController.m8638454368#1784"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/HomeViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/HomeViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o "/IOS App/SinaWeibo/MessageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.122549
+e335432619.236656
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o
+x/IOS App/SinaWeibo/MessageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /IOS App/SinaWeibo/MessageViewController.m335432619#335432619#0(0"0(0#0#42"/IOS App/SinaWeibo/MessageViewController.m8637213536#1790"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/MessageViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/MessageViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o "/IOS App/SinaWeibo/PlazaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.155912
+e335432619.260602
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o
+x/IOS App/SinaWeibo/PlazaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /IOS App/SinaWeibo/PlazaViewController.m335432619#335432619#0(0"0(0#0#40"/IOS App/SinaWeibo/PlazaViewController.m8635069984#1786"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/PlazaViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/PlazaViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/Reachability.o "/IOS App/SinaWeibo/Reachability.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688969.109780
+e335688969.306269
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/Reachability.o
+x/IOS App/SinaWeibo/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /IOS App/SinaWeibo/Reachability.m335688969#335688969#0(0"0(0#0#33"/IOS App/SinaWeibo/Reachability.m8615441952#1772"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/Reachability.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/Reachability.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o "/IOS App/SinaWeibo/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.236828
+e335432619.310001
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o
+x/IOS App/SinaWeibo/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /IOS App/SinaWeibo/SettingsViewController.m335432619#335432619#0(0"0(0#0#43"/IOS App/SinaWeibo/SettingsViewController.m8638376992#1792"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/SettingsViewController.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SettingsViewController.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o "/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335688967.892804
+e335688968.907862
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o
+x/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m335688967#335688968#0(0"0(0#0#49"/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m7020059790175004672#1796"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/Classes/SinaWeiboAppDelegate.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeiboAppDelegate.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/UImageScale.o "/IOS App/SinaWeibo/UImageScale.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335434712.080844
+e335434712.221229
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/UImageScale.o
+x/IOS App/SinaWeibo/UImageScale.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /IOS App/SinaWeibo/UImageScale.m335434712#335434712#0(0"0(0#0#32"/IOS App/SinaWeibo/UImageScale.m8633648640#1770"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/UImageScale.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/UImageScale.o"0#
+
+CCompileC build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o "/IOS App/SinaWeibo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432619.047170
+e335432619.157172
+r1
+xCompileC
+xbuild/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o
+x/IOS App/SinaWeibo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Compile /IOS App/SinaWeibo/main.m335432619#335432619#0(0"0(0#0#25"/IOS App/SinaWeibo/main.m8626314176#1756"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -include /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch -c "/IOS App/SinaWeibo/main.m" -o "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/IOS App/SinaWeibo/AccountViewController.xib"
+s335432616.107635
+e335432617.206105
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/AccountViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/AccountViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on AccountViewController.
+lSLF07#2@36"CompileXIB AccountViewController.xib335432616#335432617#0(216"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/AccountViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on AccountViewController.1(22@116"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on AccountViewController.335432617#18446744073709551615#0#0(6@44"/IOS App/SinaWeibo/AccountViewController.xib335432475#18446744073709551615#0#18446744073709551615#0#0"0(0#0#44"/IOS App/SinaWeibo/AccountViewController.xib8639271648#540"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/AccountViewController.nib" "/IOS App/SinaWeibo/AccountViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/HomeViewController.xib"
+s335432613.198845
+e335432616.109752
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/HomeViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/HomeViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on HomeViewController.
+lSLF07#2@33"CompileXIB HomeViewController.xib335432613#335432616#0(210"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/HomeViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on HomeViewController.1(22@113"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on HomeViewController.335432616#18446744073709551615#0#0(6@41"/IOS App/SinaWeibo/HomeViewController.xib335431029#18446744073709551615#0#18446744073709551615#0#0"0(0#0#41"/IOS App/SinaWeibo/HomeViewController.xib8638868096#534"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/HomeViewController.nib" "/IOS App/SinaWeibo/HomeViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/MainWindow.xib"
+s335432613.197976
+e335432616.107484
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335432613#335432616#0(0"0(0#0#33"/IOS App/SinaWeibo/MainWindow.xib8600385120#518"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MainWindow.nib" "/IOS App/SinaWeibo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/MessageViewController.xib"
+s335432613.208645
+e335432616.110154
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/MessageViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/MessageViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on MessageViewController.
+lSLF07#2@36"CompileXIB MessageViewController.xib335432613#335432616#0(216"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/MessageViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on MessageViewController.1(22@116"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on MessageViewController.335432616#18446744073709551615#0#0(6@44"/IOS App/SinaWeibo/MessageViewController.xib335432428#18446744073709551615#0#18446744073709551615#0#0"0(0#0#44"/IOS App/SinaWeibo/MessageViewController.xib8635180160#540"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/MessageViewController.nib" "/IOS App/SinaWeibo/MessageViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/PlazaViewController.xib"
+s335432613.307853
+e335432616.109961
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/PlazaViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/PlazaViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PlazaViewController.
+lSLF07#2@34"CompileXIB PlazaViewController.xib335432613#335432616#0(212"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/PlazaViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PlazaViewController.1(22@114"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PlazaViewController.335432616#18446744073709551615#0#0(6@42"/IOS App/SinaWeibo/PlazaViewController.xib335432453#18446744073709551615#0#18446744073709551615#0#0"0(0#0#42"/IOS App/SinaWeibo/PlazaViewController.xib8637943840#536"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PlazaViewController.nib" "/IOS App/SinaWeibo/PlazaViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/IOS App/SinaWeibo/SettingsViewController.xib"
+s335432616.110337
+e335432617.204850
+r1
+xCompileXIB
+x/IOS App/SinaWeibo/SettingsViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/IOS App/SinaWeibo/SettingsViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SettingsViewController.
+lSLF07#2@37"CompileXIB SettingsViewController.xib335432616#335432617#0(218"/* com.apple.ibtool.document.warnings *//IOS App/SinaWeibo/SettingsViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SettingsViewController.1(22@117"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on SettingsViewController.335432617#18446744073709551615#0#0(6@45"/IOS App/SinaWeibo/SettingsViewController.xib335432492#18446744073709551615#0#18446744073709551615#0#0"0(0#0#45"/IOS App/SinaWeibo/SettingsViewController.xib8637847584#542"    cd "/IOS App/SinaWeibo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SettingsViewController.nib" "/IOS App/SinaWeibo/SettingsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/AccountView.png AccountView.png
+s335432613.199622
+e335432613.304549
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/AccountView.png
+xAccountView.png
+lSLF07#2@20"Copy AccountView.png335432613#335432613#0(0"0(0#0#34"/IOS App/SinaWeibo/AccountView.png8636004992#421"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/AccountView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/HomeView.png HomeView.png
+s335432613.200592
+e335432613.304752
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/HomeView.png
+xHomeView.png
+lSLF07#2@17"Copy HomeView.png335432613#335432613#0(0"0(0#0#31"/IOS App/SinaWeibo/HomeView.png8632142688#418"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/HomeView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png MessageView-2.png
+s335432613.201651
+e335432613.305161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/MessageView-2.png
+xMessageView-2.png
+lSLF07#2@22"Copy MessageView-2.png335432613#335432613#0(0"0(0#0#36"/IOS App/SinaWeibo/MessageView-2.png8633313824#423"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/MessageView-2.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/MessageView.png MessageView.png
+s335435017.515966
+e335435017.561749
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/MessageView.png
+xMessageView.png
+lSLF07#2@20"Copy MessageView.png335435017#335435017#0(0"0(0#0#34"/IOS App/SinaWeibo/MessageView.png8634944352#421"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/MessageView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png PlazaView.png
+s335432613.202632
+e335432613.304937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/PlazaView.png
+xPlazaView.png
+lSLF07#2@18"Copy PlazaView.png335432613#335432613#0(0"0(0#0#32"/IOS App/SinaWeibo/PlazaView.png8635917984#419"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/PlazaView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CCpResource build/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png SettingsView.png
+s335432613.203560
+e335432613.307390
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SinaWeibo.app/SettingsView.png
+xSettingsView.png
+lSLF07#2@21"Copy SettingsView.png335432613#335432613#0(0"0(0#0#35"/IOS App/SinaWeibo/SettingsView.png8635387488#422"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/IOS App/SinaWeibo/SettingsView.png" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
+CGenerateDSYMFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM" "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo"
+s335689071.000305
+e335689071.205406
+r1
+xGenerateDSYMFile
+x/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM
+x/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/SinaWeibo.app.dSYM build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo335689071#335689071#0(0"0(0#0#70"/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo8628608832#335"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo" -o "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app.dSYM"0#
+
+CLd "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo" normal i386
+s335689070.921199
+e335689071.000172
+r1
+xLd
+x/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo
+xnormal
+xi386
+lSLF07#2@75"Link /IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo335689070#335689071#0(0"0(0#0#0"8611150336#912"    cd "/IOS App/SinaWeibo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" -filelist "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/Objects-normal/i386/SinaWeibo.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -o "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/SinaWeibo"0#
+
+CProcessInfoPlistFile "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist" SinaWeibo-Info.plist
+s335432613.194467
+e335432613.197836
+r1
+xProcessInfoPlistFile
+x/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist
+xSinaWeibo-Info.plist
+lSLF07#2@28"Process SinaWeibo-Info.plist335432613#335432613#0(0"0(0#0#39"/IOS App/SinaWeibo/SinaWeibo-Info.plist8625935296#431"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SinaWeibo-Info.plist -genpkginfo "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app/Info.plist"0#
+
+CProcessPCH /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch SinaWeibo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335432617.206291
+e335432619.047007
+r1
+xProcessPCH
+x/var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch
+xSinaWeibo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SinaWeibo_Prefix.pch335432617#335432619#0(0"0(0#0#39"/IOS App/SinaWeibo/SinaWeibo_Prefix.pch8639130496#1664"    cd "/IOS App/SinaWeibo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-generated-files.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-own-target-headers.hmap" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-all-target-headers.hmap" -iquote "/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/SinaWeibo-project-headers.hmap" "-F/IOS App/SinaWeibo/build/Debug-iphonesimulator" "-I/IOS App/SinaWeibo/build/Debug-iphonesimulator/include" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources/i386" "-I/IOS App/SinaWeibo/build/SinaWeibo.build/Debug-iphonesimulator/SinaWeibo.build/DerivedSources" -c "/IOS App/SinaWeibo/SinaWeibo_Prefix.pch" -o /var/folders/8n/8nuIs5ASFJimeaaEnwOTTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SinaWeibo_Prefix-fexkewkoaorysoheialdqqsbsusi/SinaWeibo_Prefix.pch.gch0#
+
+CTouch "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"
+s335689071.205505
+e335689071.247396
+r1
+xTouch
+x/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app
+lSLF07#2@66"Touch /IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app335689071#335689071#0(0"0(0#0#0"8624467232#244"    cd "/IOS App/SinaWeibo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/IOS App/SinaWeibo/build/Debug-iphonesimulator/SinaWeibo.app"0#
+
