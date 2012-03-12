@@ -31,6 +31,18 @@
 		B8ADAEEC13FE4B2C006360FB /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8ADAEEA13FE4B2C006360FB /* SettingsViewController.m */; };
 		B8ADAEED13FE4B2C006360FB /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8ADAEEB13FE4B2C006360FB /* SettingsViewController.xib */; };
 		B8ADAF1413FE4F54006360FB /* UImageScale.m in Sources */ = {isa = PBXBuildFile; fileRef = B8ADAF1313FE4F54006360FB /* UImageScale.m */; };
+		DAADC445150D944D0022D641 /* WBHTTPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = DAADC444150D944D0022D641 /* WBHTTPClient.m */; };
+		DAADC44D150D9DD70022D641 /* WBAuthorizeWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = DAADC44C150D9DD70022D641 /* WBAuthorizeWebView.m */; };
+		DAC7C9A8150DD2BB00D0E533 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC7C9A6150DD2BB00D0E533 /* GTMBase64.m */; };
+		DAC7C9AA150DD43100D0E533 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAC7C9A9150DD43100D0E533 /* Security.framework */; };
+		DAC7C9BC150DE29E00D0E533 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC7C9B7150DE29E00D0E533 /* NSObject+SBJSON.m */; };
+		DAC7C9BD150DE29E00D0E533 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC7C9B9150DE29E00D0E533 /* NSString+SBJSON.m */; };
+		DAC7C9BE150DE29E00D0E533 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC7C9BB150DE29E00D0E533 /* SBJSON.m */; };
+		DAC844851508AFA9003D5271 /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC8447B1508AFA9003D5271 /* SFHFKeychainUtils.m */; };
+		DAC844861508AFA9003D5271 /* WBAuthorize.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC8447D1508AFA9003D5271 /* WBAuthorize.m */; };
+		DAC844871508AFA9003D5271 /* WBEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC8447F1508AFA9003D5271 /* WBEngine.m */; };
+		DAC844881508AFA9003D5271 /* WBRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC844811508AFA9003D5271 /* WBRequest.m */; };
+		DAC844891508AFA9003D5271 /* WBUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC844841508AFA9003D5271 /* WBUtil.m */; };
 		DAE6F82015076B6900957AED /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE6F81F15076B6900957AED /* Reachability.m */; };
 		DAE6F83715076B7400957AED /* AFHTTPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE6F82315076B7400957AED /* AFHTTPClient.m */; };
 		DAE6F83815076B7400957AED /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE6F82515076B7400957AED /* AFHTTPRequestOperation.m */; };
@@ -80,6 +92,32 @@
 		B8ADAEEB13FE4B2C006360FB /* SettingsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
 		B8ADAF1213FE4F54006360FB /* UImageScale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UImageScale.h; sourceTree = "<group>"; };
 		B8ADAF1313FE4F54006360FB /* UImageScale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UImageScale.m; sourceTree = "<group>"; };
+		DAADC443150D944D0022D641 /* WBHTTPClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBHTTPClient.h; sourceTree = "<group>"; };
+		DAADC444150D944D0022D641 /* WBHTTPClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBHTTPClient.m; sourceTree = "<group>"; };
+		DAADC44B150D9DD70022D641 /* WBAuthorizeWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBAuthorizeWebView.h; sourceTree = "<group>"; };
+		DAADC44C150D9DD70022D641 /* WBAuthorizeWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBAuthorizeWebView.m; sourceTree = "<group>"; };
+		DAC7C9A5150DD2BB00D0E533 /* GTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
+		DAC7C9A6150DD2BB00D0E533 /* GTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
+		DAC7C9A7150DD2BB00D0E533 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
+		DAC7C9A9150DD43100D0E533 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		DAC7C9B5150DE29E00D0E533 /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
+		DAC7C9B6150DE29E00D0E533 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
+		DAC7C9B7150DE29E00D0E533 /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
+		DAC7C9B8150DE29E00D0E533 /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SBJSON.h"; sourceTree = "<group>"; };
+		DAC7C9B9150DE29E00D0E533 /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SBJSON.m"; sourceTree = "<group>"; };
+		DAC7C9BA150DE29E00D0E533 /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJSON.h; sourceTree = "<group>"; };
+		DAC7C9BB150DE29E00D0E533 /* SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJSON.m; sourceTree = "<group>"; };
+		DAC8447A1508AFA9003D5271 /* SFHFKeychainUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFHFKeychainUtils.h; sourceTree = "<group>"; };
+		DAC8447B1508AFA9003D5271 /* SFHFKeychainUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFHFKeychainUtils.m; sourceTree = "<group>"; };
+		DAC8447C1508AFA9003D5271 /* WBAuthorize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBAuthorize.h; sourceTree = "<group>"; };
+		DAC8447D1508AFA9003D5271 /* WBAuthorize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBAuthorize.m; sourceTree = "<group>"; };
+		DAC8447E1508AFA9003D5271 /* WBEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBEngine.h; sourceTree = "<group>"; };
+		DAC8447F1508AFA9003D5271 /* WBEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBEngine.m; sourceTree = "<group>"; };
+		DAC844801508AFA9003D5271 /* WBRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBRequest.h; sourceTree = "<group>"; };
+		DAC844811508AFA9003D5271 /* WBRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBRequest.m; sourceTree = "<group>"; };
+		DAC844821508AFA9003D5271 /* WBSDKGlobal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBSDKGlobal.h; sourceTree = "<group>"; };
+		DAC844831508AFA9003D5271 /* WBUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBUtil.h; sourceTree = "<group>"; };
+		DAC844841508AFA9003D5271 /* WBUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBUtil.m; sourceTree = "<group>"; };
 		DAE6F81E15076B6900957AED /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		DAE6F81F15076B6900957AED /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 		DAE6F82215076B7400957AED /* AFHTTPClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPClient.h; sourceTree = "<group>"; };
@@ -111,6 +149,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAC7C9AA150DD43100D0E533 /* Security.framework in Frameworks */,
 				DAEF9D481504B73500083988 /* libz.dylib in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
@@ -182,6 +221,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				DAC7C9A9150DD43100D0E533 /* Security.framework */,
 				B8493A5E140234DA00F57E6E /* CFNetwork.framework */,
 				B8493A60140234F500F57E6E /* SystemConfiguration.framework */,
 				B8493A62140234FF00F57E6E /* MobileCoreServices.framework */,
@@ -231,9 +271,66 @@
 			name = Common;
 			sourceTree = "<group>";
 		};
+		DA0BF7021508A18700505B65 /* OAuth2 */ = {
+			isa = PBXGroup;
+			children = (
+				DAADC44B150D9DD70022D641 /* WBAuthorizeWebView.h */,
+				DAADC44C150D9DD70022D641 /* WBAuthorizeWebView.m */,
+				DAC8447C1508AFA9003D5271 /* WBAuthorize.h */,
+				DAC8447D1508AFA9003D5271 /* WBAuthorize.m */,
+				DAC8447E1508AFA9003D5271 /* WBEngine.h */,
+				DAC8447F1508AFA9003D5271 /* WBEngine.m */,
+				DAC844801508AFA9003D5271 /* WBRequest.h */,
+				DAC844811508AFA9003D5271 /* WBRequest.m */,
+				DAC844821508AFA9003D5271 /* WBSDKGlobal.h */,
+				DAC844831508AFA9003D5271 /* WBUtil.h */,
+				DAC844841508AFA9003D5271 /* WBUtil.m */,
+				DAADC443150D944D0022D641 /* WBHTTPClient.h */,
+				DAADC444150D944D0022D641 /* WBHTTPClient.m */,
+			);
+			name = OAuth2;
+			sourceTree = "<group>";
+		};
+		DAC7C98F150DD2A300D0E533 /* SBJSON */ = {
+			isa = PBXGroup;
+			children = (
+				DAC7C9B5150DE29E00D0E533 /* JSON.h */,
+				DAC7C9B6150DE29E00D0E533 /* NSObject+SBJSON.h */,
+				DAC7C9B7150DE29E00D0E533 /* NSObject+SBJSON.m */,
+				DAC7C9B8150DE29E00D0E533 /* NSString+SBJSON.h */,
+				DAC7C9B9150DE29E00D0E533 /* NSString+SBJSON.m */,
+				DAC7C9BA150DE29E00D0E533 /* SBJSON.h */,
+				DAC7C9BB150DE29E00D0E533 /* SBJSON.m */,
+			);
+			path = SBJSON;
+			sourceTree = "<group>";
+		};
+		DAC7C9A4150DD2BA00D0E533 /* CTMBase64 */ = {
+			isa = PBXGroup;
+			children = (
+				DAC7C9A5150DD2BB00D0E533 /* GTMBase64.h */,
+				DAC7C9A6150DD2BB00D0E533 /* GTMBase64.m */,
+				DAC7C9A7150DD2BB00D0E533 /* GTMDefines.h */,
+			);
+			path = CTMBase64;
+			sourceTree = "<group>";
+		};
+		DAC844791508AFA9003D5271 /* SFHFKeychainUtils */ = {
+			isa = PBXGroup;
+			children = (
+				DAC8447A1508AFA9003D5271 /* SFHFKeychainUtils.h */,
+				DAC8447B1508AFA9003D5271 /* SFHFKeychainUtils.m */,
+			);
+			path = SFHFKeychainUtils;
+			sourceTree = "<group>";
+		};
 		DAE6F81B15076B5700957AED /* share */ = {
 			isa = PBXGroup;
 			children = (
+				DAC7C9A4150DD2BA00D0E533 /* CTMBase64 */,
+				DAC7C98F150DD2A300D0E533 /* SBJSON */,
+				DAC844791508AFA9003D5271 /* SFHFKeychainUtils */,
+				DA0BF7021508A18700505B65 /* OAuth2 */,
 				DAE6F82115076B7400957AED /* AFNetworking */,
 				DAE6F81D15076B6900957AED /* Reachability */,
 			);
@@ -365,6 +462,17 @@
 				DAE6F83E15076B7400957AED /* AFURLConnectionOperation.m in Sources */,
 				DAE6F83F15076B7400957AED /* AFXMLRequestOperation.m in Sources */,
 				DAE6F84015076B7400957AED /* UIImageView+AFNetworking.m in Sources */,
+				DAC844851508AFA9003D5271 /* SFHFKeychainUtils.m in Sources */,
+				DAC844861508AFA9003D5271 /* WBAuthorize.m in Sources */,
+				DAC844871508AFA9003D5271 /* WBEngine.m in Sources */,
+				DAC844881508AFA9003D5271 /* WBRequest.m in Sources */,
+				DAC844891508AFA9003D5271 /* WBUtil.m in Sources */,
+				DAADC445150D944D0022D641 /* WBHTTPClient.m in Sources */,
+				DAADC44D150D9DD70022D641 /* WBAuthorizeWebView.m in Sources */,
+				DAC7C9A8150DD2BB00D0E533 /* GTMBase64.m in Sources */,
+				DAC7C9BC150DE29E00D0E533 /* NSObject+SBJSON.m in Sources */,
+				DAC7C9BD150DE29E00D0E533 /* NSString+SBJSON.m in Sources */,
+				DAC7C9BE150DE29E00D0E533 /* SBJSON.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

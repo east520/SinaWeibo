@@ -7,10 +7,18 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WBEngine.h"
 
 
-@interface HomeViewController : UIViewController {
+@interface HomeViewController : UIViewController<WBEngineDelegate,UITableViewDelegate, UITableViewDataSource> {
+    WBEngine *weiBoEngine;
+    NSMutableArray *timeLine;
+    UITableView *timeLineTableView;
+
 
 }
+@property (nonatomic, retain) WBEngine *weiBoEngine;
+
+-(void)startAuth;
 
 @end
